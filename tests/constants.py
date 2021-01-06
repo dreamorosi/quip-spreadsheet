@@ -1,4 +1,4 @@
-QUIP_ACCESS_TOKEN = "1ee2demdo33=|03e39j94r4|komes234mfmf+wapdmeodmemdfg2y6hMfAHko="
+QUIP_ACCESS_TOKEN = "1ee2demdo33=|03e39j94r4|komes234mfmf+wapdmeodmemdfg2y6hMfAHko=" # This is a fake token :D
 QUIP_BASE_URL = "https://platform.quip.com"
 ENV = "DEBUG"
 LOGS_PREFIX = ":quip.quip:"
