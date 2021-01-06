@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+requests = "~=2.25"
+
+[dev-packages]
+black = "==20.8b1"
+requests-mock = "==1.8.0"
+setuptools = "*"
+wheel = "*"
+twine = "*"
+
+[requires]
+python_version = "3.8"
