@@ -7,7 +7,7 @@ with open("README.md") as fp:
 
 setuptools.setup(
     name="quip_spreadsheet",
-    version="0.5.0b1",
+    version="0.5.0b3",
     description="An opinionated client to search, retrieve, and parse Quip spreadsheets.",
     long_description=long_description,
     long_description_content_type="text/markdown",

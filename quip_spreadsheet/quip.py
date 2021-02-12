@@ -285,6 +285,8 @@ class QuipThread(QuipClient):
     invited_user_emails: Optional[List[str]]
     document_id: Optional[str]
     html: Optional[str]
+    sharing: Optional[Dict[str, Dict[str, str]]]
+    owning_company_id: Optional[str]
     is_deleted: bool = False
     logger: Any = logging.getLogger(__name__)
 
